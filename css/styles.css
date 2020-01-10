@@ -1,0 +1,64 @@
+.wikilist {
+  color: blue;
+  font-size: 12px;
+
+}
+
+.panel {
+  background-color: lightgrey;
+}
+
+ .topleft {
+
+ }
+
+ .box {
+   float: right;
+ }
+
+ .grass {
+   float: left;
+ }
+
+ .wikiside {
+   float: topleft;
+
+ }
+
+.welc {
+  font-size: 20px;
+}
+
+.col2 {
+  float: right;
+}
+.bod1 {
+  background-color: lightgreen;
+}
+
+.bod2 {
+  background-color: lightblue;
+}
+
+.img1 {
+  float: left;
+  width: 250px;
+  margin: 10px;
+}
+
+.img2 {
+  float: right;
+  width: 250px;
+  margin: 10px;
+}
+
+.one{
+  font-size: 25px;
+}
+.two {
+border: solid 1px black;
+margin: 5px;
+margin-left: 50px;
+
+
+}
